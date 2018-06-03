@@ -16,7 +16,7 @@ import java.util.UUID;
 
 /**
  * 测试dao层的工作
- * Created by wei.bin on 2017/9/12.
+
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"classpath:applicationContext.xml"})

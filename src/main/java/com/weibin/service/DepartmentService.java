@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * Created by wei.bin on 2017/9/19.
+
  */
 @Service
 public class DepartmentService {

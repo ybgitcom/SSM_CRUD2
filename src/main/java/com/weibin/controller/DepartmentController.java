@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 处理和部门有关的请求
- * Created by wei.bin on 2017/9/19.
+
  */
 @Controller
 public class DepartmentController {
